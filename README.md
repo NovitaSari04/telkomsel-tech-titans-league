@@ -1,4 +1,5 @@
-
+![logo](./png/logo.png)
+  
 Holla! 👋
 
 On October 17th 2020 I got a chance to compete in Telkomsel Tech Titan League - Data Analytics as 1 of selected 100 participants (from 700+ applicant).
