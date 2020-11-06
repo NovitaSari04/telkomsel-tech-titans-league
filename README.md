@@ -20,6 +20,17 @@ On this repo, I will share 2 sql questions from the competition and add my appro
  The output should be in the following format: party | seats_won
  The ordering should be in the order of seats won in descending order.
  ```
+The table schema, table value, and expected output given as follows:
+
+![schema1](./png/schema1.png)
+
+![table1](./png/table1.png)
+
+![output1](./png/output1.png)
+
+The result of my query to the case is as follow (you can check up my full query in the sql files):
+
+![result1](./png/result1.png)
 
 ### Question 2: Cities with More Customers Than Average
 
