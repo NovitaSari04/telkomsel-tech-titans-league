@@ -1,11 +1,10 @@
-![logo](./png/logo)
 
 Holla! 👋
 
-On dndnd I got a chance as 1 of selected 100 participant (from 700+) to compete in Telkomsel.....
-Although I  can not manage to secure to 30 place, I still grateful to given a chance exposed to dnjdnvndjv
+On October 17th 2020 I got a chance to compete in Telkomsel Tech Titan League - Data Analytics as 1 of selected 100 participants (from 700+ applicant).
+Although I can not manage to secure up to 30th place, I still grateful to given a chance to join. We were given 10 questions, 2 of them are about SQL.
 
-On this repo, I will share 2 sql question from the competition and add my approach to solve the question.
+On this repo, I will share 2 sql questions from the competition and add my approach and query to solve the questions.
 
 ### Question 1: Election
 
