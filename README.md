@@ -24,6 +24,8 @@ The table schema, table value, and expected output given as follows:
 
 ![schema1](./png/schema1.png)
 
+The tables:
+
 ![table1](./png/table1.png)
 
 ![output1](./png/output1.png)
