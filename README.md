@@ -41,3 +41,17 @@ Write a query which will return all cities with more customers than the average 
 of all cities. For each such city, return the country name, the city name and the number of customers. 
 Order the result by country name ascending.
 ```
+
+The table schema, table value, and expected output given as follows:
+
+![schema2](./png/schema2.png)
+
+The tables:
+
+![table2](./png/table2.png)
+
+![output2](./png/output2.png)
+
+The result of my query to the case is as follow (you can check up my full query in the sql files):
+
+![result2](./png/result2.png)
